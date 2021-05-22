@@ -1,0 +1,46 @@
+.heading
+{
+ width: 100%;
+ font-size: 22px;
+ background-color: darksalmon;
+ font-family: 'Pattaya', sans-serif;
+ box-shadow: 5px 5px 5px grey;
+ margin: 0px;
+}
+
+.heading_div
+{
+ float: none;
+ font-size: 22px;
+ background-color: palegreen;
+ font-family: 'Pattaya', sans-serif;
+ box-shadow: 5px 5px 5px grey;
+ padding: 15px;
+ border-radius: 25px;
+}
+
+.para_tag
+{
+    box-shadow: 5px 5px 5px grey;
+    font-size:20px;
+
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    bottom:0; 
+    background-color: grey;
+    width:100%;
+    line-height: 3;
+    color: greenyellow;
+    text-align: center;
+}
+
+canvas
+{
+border-radius: 20px;
+box-shadow: 5px 5px 5px grey;
+border: 5px solid white;
+margin-top: 150px;
+}
